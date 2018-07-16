@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="D:\compartir\DemoPruebasUnitarias-master\UtilidadesRepositorio.Tests\bin\Debug\UtilidadesRepositorio.Tests.dll" total="4" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2018-06-27" time="14:11:14">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.8784" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.4\bin" machine-name="P09AN35107LPT01" user="s35107" user-domain="BCPDOM" />
+  <culture-info current-culture="es-PE" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="D:\compartir\DemoPruebasUnitarias-master\UtilidadesRepositorio.Tests\bin\Debug\UtilidadesRepositorio.Tests.dll" executed="True" result="Success" success="True" time="0.270" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="UtilidadesRepositorio" executed="True" result="Success" success="True" time="0.249" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Tests" executed="True" result="Success" success="True" time="0.249" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="DiferenciaTest" executed="True" result="Success" success="True" time="0.151" asserts="0">
+                <results>
+                  <test-suite type="ParameterizedTest" name="Diferencia_ValoresValidos" executed="True" result="Success" success="True" time="0.122" asserts="0">
+                    <results>
+                      <test-case name="UtilidadesRepositorio.Tests.DiferenciaTest.Diferencia_ValoresValidos()" executed="True" result="Success" success="True" time="0.106" asserts="1" />
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+              <test-suite type="TestFixture" name="DivisionTests" executed="True" result="Success" success="True" time="0.032" asserts="0">
+                <results>
+                  <test-suite type="ParameterizedTest" name="Division_DivideEntreCero" executed="True" result="Success" success="True" time="0.031" asserts="0">
+                    <results>
+                      <test-case name="UtilidadesRepositorio.Tests.DivisionTests.Division_DivideEntreCero()" executed="True" result="Success" success="True" time="0.029" asserts="0" />
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+              <test-suite type="TestFixture" name="MultiplicarTest" executed="True" result="Success" success="True" time="0.004" asserts="0">
+                <results>
+                  <test-suite type="ParameterizedTest" name="Multiplicar_ValoresValidos" executed="True" result="Success" success="True" time="0.003" asserts="0">
+                    <results>
+                      <test-case name="UtilidadesRepositorio.Tests.MultiplicarTest.Multiplicar_ValoresValidos()" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+              <test-suite type="TestFixture" name="SumaTests" executed="True" result="Success" success="True" time="0.003" asserts="0">
+                <results>
+                  <test-suite type="ParameterizedTest" name="Suma_ValoresValidos" executed="True" result="Success" success="True" time="0.002" asserts="0">
+                    <results>
+                      <test-case name="UtilidadesRepositorio.Tests.SumaTests.Suma_ValoresValidos()" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

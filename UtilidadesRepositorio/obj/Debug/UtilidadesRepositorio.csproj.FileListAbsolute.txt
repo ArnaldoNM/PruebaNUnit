@@ -1,0 +1,11 @@
+D:\S35107\NET\DemoPruebasUnitarias-master\UtilidadesRepositorio\bin\Debug\UtilidadesRepositorio.dll
+D:\S35107\NET\DemoPruebasUnitarias-master\UtilidadesRepositorio\bin\Debug\UtilidadesRepositorio.pdb
+D:\S35107\NET\DemoPruebasUnitarias-master\UtilidadesRepositorio\obj\Debug\UtilidadesRepositorio.csproj.CoreCompileInputs.cache
+D:\S35107\NET\DemoPruebasUnitarias-master\UtilidadesRepositorio\obj\Debug\UtilidadesRepositorio.dll
+D:\S35107\NET\DemoPruebasUnitarias-master\UtilidadesRepositorio\obj\Debug\UtilidadesRepositorio.pdb
+D:\compartir\DemoPruebasUnitarias-master\UtilidadesRepositorio\bin\Debug\UtilidadesRepositorio.dll
+D:\compartir\DemoPruebasUnitarias-master\UtilidadesRepositorio\bin\Debug\UtilidadesRepositorio.pdb
+D:\compartir\DemoPruebasUnitarias-master\UtilidadesRepositorio\obj\Debug\UtilidadesRepositorio.csproj.CoreCompileInputs.cache
+D:\compartir\DemoPruebasUnitarias-master\UtilidadesRepositorio\obj\Debug\UtilidadesRepositorio.dll
+D:\compartir\DemoPruebasUnitarias-master\UtilidadesRepositorio\obj\Debug\UtilidadesRepositorio.pdb
+D:\compartir\DemoPruebasUnitarias-master\UtilidadesRepositorio\obj\Debug\UtilidadesRepositorio.csprojAssemblyReference.cache

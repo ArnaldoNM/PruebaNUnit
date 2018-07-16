@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1012]D:\compartir\DemoPruebasUnitarias-master\UtilidadesRepositorio.Tests\bin\Debug\UtilidadesRepositorio.Tests.dll</TopNode>
+  <SelectedNode>[0-1012]D:\compartir\DemoPruebasUnitarias-master\UtilidadesRepositorio.Tests\bin\Debug\UtilidadesRepositorio.Tests.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1012]D:\compartir\DemoPruebasUnitarias-master\UtilidadesRepositorio.Tests\bin\Debug\UtilidadesRepositorio.Tests.dll" Expanded="true" />
+    <Node UniqueName="[0-1013]UtilidadesRepositorio" Expanded="true" />
+    <Node UniqueName="[0-1014]UtilidadesRepositorio.Tests" Expanded="true" />
+    <Node UniqueName="[0-1006]UtilidadesRepositorio.Tests.DiferenciaTest" Expanded="true" />
+    <Node UniqueName="[0-1007]UtilidadesRepositorio.Tests.DiferenciaTest.Diferencia_ValoresValidos" Expanded="true" />
+    <Node UniqueName="[0-1003]UtilidadesRepositorio.Tests.DivisionTests" Expanded="true" />
+    <Node UniqueName="[0-1004]UtilidadesRepositorio.Tests.DivisionTests.Division_DivideEntreCero" Expanded="true" />
+    <Node UniqueName="[0-1000]UtilidadesRepositorio.Tests.MultiplicarTest" Expanded="true" />
+    <Node UniqueName="[0-1001]UtilidadesRepositorio.Tests.MultiplicarTest.Multiplicar_ValoresValidos" Expanded="true" />
+    <Node UniqueName="[0-1009]UtilidadesRepositorio.Tests.SumaTests" Expanded="true" />
+    <Node UniqueName="[0-1010]UtilidadesRepositorio.Tests.SumaTests.Suma_ValoresValidos" Expanded="true" />
+  </Nodes>
+</VisualState>
